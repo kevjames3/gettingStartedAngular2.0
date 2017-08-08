@@ -1,0 +1,1 @@
+This repository is a continuation of https://github.com/angular/quickstart.git, but with everything updated.
