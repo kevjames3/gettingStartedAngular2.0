@@ -59,8 +59,8 @@ typings/
 .env
 
 # angular components
-*.js
-*.js.map
+dest/**.js
+dest/**.js.map
 
 # output directory
 dest/
